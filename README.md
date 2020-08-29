@@ -13,6 +13,10 @@ My home environmental monitor system.
 
 [Adafruit IO](https://io.adafruit.com/sjkelly/dashboards/env-monitor)
 
+## Wiring
+
+![](./board/aqi_mon_bb.png)
+
 ## Notes on Sensors
 
 This is still WIP, but some early observations.
@@ -58,6 +62,3 @@ and growth affect CO2, and how quantity of plants affect the rate of drop in CO2
 ### PM2.5
 I have a HEPA filter over my AC and a standalone Coway filter. Both seem to keep PM2.5 <0.2.
 I am curious to see how this changes in the winter when only the Coway is running.
-
-
-
